@@ -1,4 +1,4 @@
-# Desafio Concluído.
+# Desafio Concluído
 
 ## DIO - Trilha Java Básico
 www.dio.me
